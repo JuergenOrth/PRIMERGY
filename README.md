@@ -6,7 +6,8 @@
     * [iRMC RESTful API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=6863BE99-5B75-48EF-9AD8-5751373482A6)
     * [iRMC REST API examples (*)](https://github.com/fujitsu/iRMC-REST-API)
   * Redfish
-    * [iRMC Redfish API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=D8B307C8-314D-4393-9ECF-A4D3B052F96F)
+    * [iRMC S5 Redfish API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=D8B307C8-314D-4393-9ECF-A4D3B052F96F)
+    * [iRMC S6 Redfish API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=924FFF86-CD5C-433A-A0BB-91CD1CD6B29D)
     * [iRMC Redfish API examples (*)](https://github.com/fujitsu/iRMCtools)
     * [iRMC Redfish API examples (Python based)](https://github.com/mmurayama/fujitsu-redfish-samples)
   * Ansible
