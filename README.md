@@ -2,27 +2,27 @@
 ## Links for tools regarding automating Fujitsu PRIMERGY server management.
 
 * **iRMC** (integrated Remote Management Controller)
-  * RESTful API
+  * RESTful API:The legacy and vendor specific interface to automate all operations of an iRMC.
     * [iRMC RESTful API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=6863BE99-5B75-48EF-9AD8-5751373482A6)
     * [iRMC REST API examples (*)](https://github.com/fujitsu/iRMC-REST-API)
-  * Redfish
+  * Redfish: The [DMTF](https://www.dmtf.org/standards/redfish) standardized protocol to manage a BMC across vendors, such as iRMC, iDRAC, iLO, ...
     * [iRMC S5 Redfish API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=D8B307C8-314D-4393-9ECF-A4D3B052F96F)
     * [iRMC S6 Redfish API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=924FFF86-CD5C-433A-A0BB-91CD1CD6B29D)
     * [iRMC Redfish API examples (*)](https://github.com/fujitsu/iRMCtools)
     * [iRMC Redfish API examples (Python based)](https://github.com/mmurayama/fujitsu-redfish-samples)
-  * Ansible
+  * Ansible: One of the leading tools for general configuration and administration of IT systems.
     * [Fujitsu Ansible iRMC integration](https://github.com/fujitsu/fujitsu-ansible-irmc-integration)
 * **ISM** (Fujitsu Software Infrastructure Manager)
-  * RESTful API
+  * RESTful API: Available with the advanced version of ISM
     * [ISM v2.8 REST API specification](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=1BC17707-0D8A-4DDA-81B3-A06BD7E0910B)
     * [ISM Rest API examples (*)](https://github.com/fujitsu/ISMtools)
   * Ansible
     * [Fujitsu Ansible ISM integration](https://github.com/fujitsu/ism-ansible)
- * **Nagios/Icinga**
+ * **Nagios/Icinga**: Nagios a tool for monitoring complex IT landscapes.
    * [PRIMERGY Nagios PlugIn](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A8AEEB69-F040-4C0E-A1D2-C5F812B32BFB)
- * **Patches/Drivers/Tools**
-   * [Fujitsu Support Page](https://support.ts.fujitsu.com)
-   * [Fujitsu GlobalFlash](https://support.ts.fujitsu.com/DownloadManager/globalflash)
+ * **Patches/Drivers/Tools**: Where you can find all this stuff.
+   * [Fujitsu Support Page](https://support.ts.fujitsu.com): User space where you can select patches, privers, manuals, tools for your hardware or software.
+   * [Fujitsu GlobalFlash](https://support.ts.fujitsu.com/DownloadManager/globalflash): The machine readable Version of drivers and pateches, used by eLCM, ISM, Content Collector, Repository Server.
    * [Fujitsu Linux OEM drivers repository](https://support.ts.fujitsu.com/linux/pldp)
    * [Fujitsu MySupport](https://support.ts.fujitsu.com/IndexMySupport.asp)
    * Repository Manager
