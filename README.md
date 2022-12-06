@@ -1,5 +1,5 @@
 # PRIMERGY
-## Links for tools regarding automating Fujitsu PRIMERGY(R) server management.
+## Links for tools regarding automating Fujitsu PRIMERGY server management.
 
 * **iRMC** (integrated Remote Management Controller)
   * **RESTful API:** The legacy and vendor specific interface to automate all operations of an iRMC.
