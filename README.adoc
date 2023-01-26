@@ -87,10 +87,10 @@ Where you can find all this stuff.
      ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=20E1532D-FE47-446E-BD39-6F2332C1C161[Virtual appliance VMware].footnote:fn-1[]
      ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=812CD74B-7514-4526-9EEB-5C846087DC18[Virtual appliance Hyper-V].footnote:fn-1[]
 
-=== Content Collector: 
+    * Content Collector: 
 A tool to download a couple for drivers/patches and optionally create boot devices.
 
-     * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3A992351-EE5E-4B3B-936D-BCC771C764F2[Content Collector].footnote:fn-2[may be outdated]
+     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3A992351-EE5E-4B3B-936D-BCC771C764F2[Content Collector].footnote:fn-2[may be outdated]
 
 
 
