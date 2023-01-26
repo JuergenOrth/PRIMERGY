@@ -73,15 +73,22 @@ A tool for monitoring complex IT landscapes.
 Where you can find all this stuff.
 
    * https://support.ts.fujitsu.com[Fujitsu Support Page]: User space where you can select patches, drivers, manuals, tools, ... for your hardware or software.
+
    * https://support.ts.fujitsu.com/DownloadManager/globalflash[Fujitsu GlobalFlash]: The machine readable version of drivers and patches, used by eLCM, ISM, Content Collector, Repository Server, ...
+
    * https://support.ts.fujitsu.com/linux/pldp[Fujitsu Linux OEM drivers repository]: Repositories for OEM drivers of RHEL and SLES.
+
    * https://support.ts.fujitsu.com/IndexMySupport.asp[Fujitsu MySupport]: Get newsletters and see what's about service/warranty of your systems.
-   * *Repository Manager:* A tool to mirror *Fujitsu GlobalFlash* into your own location.
-     * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A3BFCA8A-33A1-49BC-8B00-C3E795A2ED8B[RPM].footnote:fn-1[]
-     * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=20E1532D-FE47-446E-BD39-6F2332C1C161[Virtual appliance VMware].footnote:fn-1[]
-     * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=812CD74B-7514-4526-9EEB-5C846087DC18[Virtual appliance Hyper-V].footnote:fn-1[]
-   * *Content Collector:* A tool to download a couple for drivers/patches and optionally create boot devices.
+
+   * Repository Manager
+   A tool to mirror _Fujitsu GlobalFlash_ into your own location.
+
+     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A3BFCA8A-33A1-49BC-8B00-C3E795A2ED8B[RPM].footnote:fn-1[]
+     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=20E1532D-FE47-446E-BD39-6F2332C1C161[Virtual appliance VMware].footnote:fn-1[]
+     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=812CD74B-7514-4526-9EEB-5C846087DC18[Virtual appliance Hyper-V].footnote:fn-1[]
+=== Content Collector: 
+A tool to download a couple for drivers/patches and optionally create boot devices.
      * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3A992351-EE5E-4B3B-936D-BCC771C764F2[Content Collector].footnote:fn-2[may be outdated]
 
-----
+
 
