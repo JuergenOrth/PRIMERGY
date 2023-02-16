@@ -1,6 +1,6 @@
 :author: Jürgen Orth
 :email: Juergen.Orth@fujitsu.com
-:version: v1.1
+:version: v1.1.1
 
 :imagesdir: img/
 :toc: preamble
@@ -26,24 +26,25 @@ IMPORTANT: *#Please note: This link collection is provided W/O ANY WARRANTY and 
 [options="header"]
 |=================
 |Version|Date|Description|Author
-|1.0.0|2022-12-06|Initial version|mailto:{email}[{Author}]
+|1.1.1|2023-02-16|Updated links|mailto:{email}[{Author}]
 |1.1.0|2023-01-26|Changed format to ASCIIdoc|mailto:{email}[{Author}]
+|1.0.0|2022-12-06|Initial version|mailto:{email}[{Author}]
 |=================
 
 == iRMC (integrated Remote Management Controller)
 === RESTful API
 The legacy and vendor specific interface to automate all operations of an iRMC.
 
-    * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=6863BE99-5B75-48EF-9AD8-5751373482A6[iRMC RESTful API specification].footnote:fn-1[Please be aware that there might be newer document/program versions available!]
+    * https://support.ts.fujitsu.com/dl?ID=6863be99-5b75-48ef-9ad8-5751373482a6[iRMC RESTful API specification].footnote:fn-1[Please be aware that there might be newer document/program versions available!]
 
     * https://github.com/fujitsu/iRMC-REST-API[iRMC REST API examples].footnote:fn-2[written/maintained by me]
 
 === Redfish
 The https://www.dmtf.org/standards/redfish[DMTF] standardized protocol to manage a BMC across vendors, such as iRMC, iDRAC, iLO, ...
 
-    * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=D8B307C8-314D-4393-9ECF-A4D3B052F96F[iRMC S5 Redfish API specification].footnote:fn-1[]
+    * https://support.ts.fujitsu.com/dl?ID=2f2aeb1a-ec4a-4956-8bfa-15daa224a7d3[iRMC S5 Redfish API specification].footnote:fn-1[]
  
-    * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=924FFF86-CD5C-433A-A0BB-91CD1CD6B29D[iRMC S6 Redfish API specification].footnote:fn-1[]
+    * https://support.ts.fujitsu.com/dl?ID=05f1e682-43f7-4c00-b3d3-2c2b91cdd56f[iRMC S6 Redfish API specification].footnote:fn-1[]
  
     * https://github.com/fujitsu/iRMCtools[iRMC Redfish API examples].footnote:fn-2[]
  
@@ -58,7 +59,7 @@ One of the leading tools for general configuration and administration of IT syst
 === RESTful API 
 Available with the advanced version of ISM.
 
-    * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=1BC17707-0D8A-4DDA-81B3-A06BD7E0910B[ISM v2.8 REST API specification].footnote:fn-1[]
+    * https://support.ts.fujitsu.com/dl?ID=1bc17707-0d8a-4dda-81b3-a06bd7e0910b[ISM v2.8 REST API specification].footnote:fn-1[]
     * https://github.com/fujitsu/ISMtools[ISM Rest API examples].footnote:fn-2[]
 
 === Ansible
@@ -67,7 +68,8 @@ Available with the advanced version of ISM.
 == Nagios/Icinga
 A tool for monitoring complex IT landscapes.
 
-   * https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A8AEEB69-F040-4C0E-A1D2-C5F812B32BFB[PRIMERGY Nagios PlugIn].footnote:fn-1[]
+   * https://support.ts.fujitsu.com/dl?ID=ffa3f833-3f05-4fe7-bcac-64f30bf7c0a8[PRIMERGY Nagios PlugIn].footnote:fn-1[]
+   * https://support.ts.fujitsu.com/dl?ID=a8aeeb69-f040-4c0e-a1d2-c5f812b32bfb[PRIMERGY Nagios PlugIn Documentation].footnote:fn-1[]
 
 == Patches/Drivers/Tools/Manuals/Docs/Security
 Where you can find all this stuff.
@@ -80,17 +82,17 @@ Where you can find all this stuff.
 
    * https://support.ts.fujitsu.com/IndexMySupport.asp[Fujitsu MySupport]: Get newsletters and see what's about service/warranty of your systems.
 
-   * Repository Manager: +
+   * Repository Server: +
       A tool to mirror _Fujitsu GlobalFlash_ into your own location.
 
-     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A3BFCA8A-33A1-49BC-8B00-C3E795A2ED8B[RPM].footnote:fn-1[]
+     ** https://support.ts.fujitsu.com/dl?ID=a3bfca8a-33a1-49bc-8b00-c3e795a2ed8b[RPM].footnote:fn-1[]
      ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=20E1532D-FE47-446E-BD39-6F2332C1C161[Virtual appliance VMware].footnote:fn-1[]
-     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=812CD74B-7514-4526-9EEB-5C846087DC18[Virtual appliance Hyper-V].footnote:fn-1[]
+     ** https://support.ts.fujitsu.com/dl?ID=812cd74b-7514-4526-9eeb-5c846087dc18[Virtual appliance Hyper-V].footnote:fn-1[]
 
    * Content Collector: +
 A tool to download a couple of drivers/patches and optionally create boot devices.
 
-     ** https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3A992351-EE5E-4B3B-936D-BCC771C764F2[Content Collector].footnote:fn-1[]
+     ** https://support.ts.fujitsu.com/dl?ID=3a992351-ee5e-4b3b-936d-bcc771c764f2[Content Collector].footnote:fn-1[]
 
 
 
