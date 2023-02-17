@@ -1,6 +1,6 @@
 :author: Jürgen Orth
 :email: Juergen.Orth@fujitsu.com
-:version: v1.1.1
+:version: v1.1.2
 
 :imagesdir: img/
 :toc: preamble
@@ -26,6 +26,7 @@ IMPORTANT: *#Please note: This link collection is provided W/O ANY WARRANTY and 
 [options="header"]
 |=================
 |Version|Date|Description|Author
+|1.1.2|2023-02-17|Updated links|mailto:{email}[{Author}]
 |1.1.1|2023-02-16|Updated links|mailto:{email}[{Author}]
 |1.1.0|2023-01-26|Changed format to ASCIIdoc|mailto:{email}[{Author}]
 |1.0.0|2022-12-06|Initial version|mailto:{email}[{Author}]
