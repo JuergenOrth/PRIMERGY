@@ -43,7 +43,7 @@ The legacy and vendor specific interface to automate all operations of an iRMC.
 === Redfish
 The https://www.dmtf.org/standards/redfish[DMTF] standardized protocol to manage a BMC across vendors, such as iRMC, iDRAC, iLO, ...
 
-    * https://support.ts.fujitsu.com/dl?ID=2f2aeb1a-ec4a-4956-8bfa-15daa224a7d3[iRMC S5 Redfish API specification].footnote:fn-1[]
+    * https://support.ts.fujitsu.com/dl?ID=5e3d70b3-ade6-4961-91b3-1c4bdc5e0d84[iRMC S5 Redfish API specification].footnote:fn-1[]
  
     * https://support.ts.fujitsu.com/dl?ID=05f1e682-43f7-4c00-b3d3-2c2b91cdd56f[iRMC S6 Redfish API specification].footnote:fn-1[]
  
