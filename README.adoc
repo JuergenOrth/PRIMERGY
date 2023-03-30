@@ -12,10 +12,12 @@ ifdef::env-github[]
 :warning-caption: :warning:
 :imagesdir: https://github.com/fujitsu/ISMtools/blob/master/img/
 endif::[]
-= PRIMERGY {version}
+= PRIMERGY {version} ==> Has been moved to https://github.com/Fujitsu/PRIMERGY[Fujitsu]!
 
 [.lead]
 *Links for tools regarding automating Fujitsu PRIMERGY server management.*
+
+IMPORTANT: Please consider: There will be no further commits to this site. Please use the new one.
 
 Any feedback is appreciated.
 
